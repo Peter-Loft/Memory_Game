@@ -1,0 +1,26 @@
+/* you can add to or change this. */
+h1 {
+  text-align: center;
+}
+
+
+
+
+#game {
+  position: absolute;
+  width: 80%;
+  padding: 8px 12px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  background-color: slategray;
+}
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 130px;
+  margin: 15px;
+  display: inline-block;
+  background-color: whitesmoke;
+}
